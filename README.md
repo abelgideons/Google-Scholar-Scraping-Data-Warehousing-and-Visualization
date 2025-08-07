@@ -4,3 +4,5 @@ Tools:
 Python -> Pandas, Selenium, Bs4
 BigQuery
 Looker Public
+
+LOOKER LINK: https://lookerstudio.google.com/u/0/reporting/cc8a92a0-6695-4d9b-be51-7c21d7e13d6f/page/mKySF
